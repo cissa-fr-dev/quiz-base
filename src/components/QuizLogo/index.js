@@ -4,7 +4,9 @@ import PropTypes from 'prop-types';
 
 function Logo({ className }) {
     return (
+        //<img src="https://pngimage.net/wp-content/uploads/2018/06/naruto-hair-png.png" />
         <svg className={className} width="135" height="67" viewBox="0 0 135 67" fill="none" xmlns="http://www.w3.org/2000/svg">
+
             <g clipPath="url(#clip0)">
                 <mask id="path-1-outside-1" maskUnits="userSpaceOnUse" x="2" y="2" width="110" height="50" fill="black">
                     <rect fill="white" x="2" y="2" width="110" height="50" />

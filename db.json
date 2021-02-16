@@ -1,28 +1,54 @@
 {
     "bg": "https://wallpaperaccess.com/full/1250838.png",
-    "title": "Quiz CSS da Alura",
+    "title": "Narutinho da massa",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
         {
-            "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-            "title": "Como fazer um seletor por id via CSS?",
+            "image": "https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif",
+            "title": "Qual o maior sonho do Naruto?",
             "description": "Essa é pra aquecer",
             "answer": 2,
             "alternatives": [
-                ".elemento",
-                "*elemento",
-                "#elemento",
-                "%elemento"
+                "Derrotar o Sasuke",
+                "Conquistar a Sakura",
+                "Se tornar Hokage",
+                "Comer todos os lámens da aldeia"
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-            "title": "Como fazer um background gradiente com css?",
-            "description": "Faz tempo em haha",
-            "answer": 0,
+            "image": "https://i.pinimg.com/originals/1a/cc/83/1acc83d15aeb2753a62583688c7d8298.png",
+            "title": "Qual o país que Naruto nasceu?",
+            "description": "E aí, você sabe essa?",
+            "answer": 1,
             "alternatives": [
-                "background: linear-gradient(#e66465, #9198e5);",
-                "background: gradient(#e66465, #9198e5);"
+                "País do Vento",
+                "País do Fogo",
+                "País do Som",
+                "País da Água"
+            ]
+        },
+        {
+            "image": "https://pa1.narvii.com/6539/b1a3f7131f68e6d14efcbb946907e0ffbb4a0801_hq.gif",
+            "title": "Qual a aldeia no Naruto?",
+            "description": "Essa tá fácil, vai",
+            "answer": 2,
+            "alternatives": [
+                "Aldeia do som",
+                "Aldeia da água",
+                "Aldeia da folha",
+                "Aldeia do vento"
+            ]
+        },
+        {
+            "image": "https://media.giphy.com/media/t5Ml3rCGNEddm/giphy.gif",
+            "title": "Qual a equipe em que Naruto, Sakura e Sasuke fizeram parte?",
+            "description": "Pra relembrar os velhos tempos",
+            "answer": 3,
+            "alternatives": [
+                "Equipe 3",
+                "Equipe 8",
+                "Equipe 1",
+                "Equipe 7"
             ]
         }
     ],
@@ -36,7 +62,12 @@
             "mainBg": "#171B35",
             "contrastText": "#FFFFFF",
             "wrong": "#FF5722",
-            "success": "#4CAF50"
+            "success": "#4CAF50",
+            "black": "#000000",
+            "red": "#9b2230",
+            "grey": "#565454",
+            "orange": "#ff6e3e",
+            "brightOrange": "#ff4e15"
         },
         "borderRadius": "4px"
     }
